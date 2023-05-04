@@ -27,8 +27,6 @@ id_produktu, id_klienta+data_zamówienia, ilość
 id_pomieszczenia -> numer_pomieszczenia, id_budynku, powierzchnia, liczba_okien, liczba_drzwi
 numer_pomieszczenia -> id_pomieszczenia, id_budynku, powierzchnia, liczba_okien, liczba_drzwi
 id_budynku -> ulica, miasto, kod_pocztowy
-ulica, miasto -> kod pocztowy
-
 
 Klucze kandydujące:
 id_pomieszczenia
