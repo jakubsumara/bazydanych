@@ -13,7 +13,6 @@ cena_produktu -> id_produktu, nazwa_produktu, VAT
 VAT -> id_produktu, nazwa_produktu
 
 2. Wypisz wszystkie klucze kandydujące:
-id_zamówienia (klucz glowny)
 id_klienta
 nazwa_produktu
 nazwa_klienta
